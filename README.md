@@ -59,7 +59,7 @@ Get the files from the [latest release](https://github.com/tanlugi/Lui-AI/releas
 
 | | File | What it needs |
 |---|---|---|
-| Windows | `Lui-Setup-<version>.exe` | Windows 11 (64-bit). To run agents, [Claude Code](https://docs.claude.com/en/docs/claude-code) or [Codex](https://github.com/openai/codex) installed and signed in: either one, neither is required by itself. Without Claude Code, Lui reads your messages with a local AI (its own engine in Settings › Connections, Ollama or LM Studio) |
+| Windows | `Lui-Setup-<version>.exe` | Windows 11 (64-bit). To run agents, [Claude Code](https://docs.claude.com/en/docs/claude-code) or [Codex](https://github.com/openai/codex) installed and signed in: either one, neither is required by itself. Without a subscription, Lui reads your messages with a local AI (its own engine in Settings › Connections, Ollama or LM Studio) |
 | Android | `Lui-<version>.apk` | Android 7.0 or newer, on a 64-bit ARM phone |
 
 ### On Windows
@@ -152,7 +152,7 @@ Baixe os arquivos da [release mais recente](https://github.com/tanlugi/Lui-AI/re
 
 | | Arquivo | O que precisa |
 |---|---|---|
-| Windows | `Lui-Setup-<versão>.exe` | Windows 11 (64 bits). Para rodar agentes, o [Claude Code](https://docs.claude.com/en/docs/claude-code) ou o [Codex](https://github.com/openai/codex) instalado e com login: qualquer um dos dois, nenhum é obrigatório sozinho. Sem o Claude Code, o Lui entende as suas mensagens com uma IA local (o motor próprio em Configurações › Conexões, o Ollama ou o LM Studio) |
+| Windows | `Lui-Setup-<versão>.exe` | Windows 11 (64 bits). Para rodar agentes, o [Claude Code](https://docs.claude.com/en/docs/claude-code) ou o [Codex](https://github.com/openai/codex) instalado e com login: qualquer um dos dois, nenhum é obrigatório sozinho. Sem uma assinatura, o Lui entende as suas mensagens com uma IA local (o motor próprio em Configurações › Conexões, o Ollama ou o LM Studio) |
 | Android | `Lui-<versão>.apk` | Android 7.0 ou mais novo, em celular ARM de 64 bits |
 
 #### No Windows
